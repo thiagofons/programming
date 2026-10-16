@@ -12,8 +12,6 @@ public:
 
     while (i >= 0)
     {
-      cout << s[i] << endl;
-
       if (s[i--] == ' ')
       {
         if (count > 0)
