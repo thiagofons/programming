@@ -1,4 +1,4 @@
-#include "./lib/ListNode.hpp"
+#include <leetcode/list_node.hpp>
 
 using namespace std;
 
